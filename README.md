@@ -4,13 +4,13 @@ The goal of this demo is to give you a place to show off your Xamarin / C# / Dev
 ## Specification
 Build a Xamarin Forms application for on both Android and iOS iPhones with a tab bar at the bottom of the page and 2 views.  [Click Here](https://github.com/AxisMedTech/xamarin-interview-demo/blob/master/mockup.pdf?raw=true) to get the mockup for the user interface interaction / flow.  For data use the SQLite-Net PCL nuget package and create the necessary entities.
 
-### Hobbies View
+#### Hobbies View
 Create a list view with a few of your favorite hobbies.  Touching a cell will push to a hobby detail view.
 
-### Stock View
+#### Stock View
 Make a list view that displays products that are in stock.
 
-### Form
+#### Form
 Create a modal form with text input, inline date picker and on/off switch.  When the user clicks submit display the values as user readable text in an alert.  Upon dismissal of the alert view close the modal form.
 
 ## Goals
