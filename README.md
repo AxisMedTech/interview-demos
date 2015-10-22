@@ -25,7 +25,7 @@ Create a modal form with text input, inline date picker and on/off switch.  When
 ## Submitting your work
 Send an email to devtest@axismedtech.com with your name as the subject and the message body containing a link to a public Github repository with your work in it.
 
-Here are the steps I will take to test it:
+Here are the steps I will take to check it out:
 
 1.	Clone your repo
 2.	Open the project using Xamarin Studio
